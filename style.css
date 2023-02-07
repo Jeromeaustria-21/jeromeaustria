@@ -1,0 +1,50 @@
+body {
+    background: rgb(2,0,36);
+    
+    margin-left: 15%;
+    background-position: fixed;
+    background-attachment: fixed;
+    margin-right: 10%;
+    margin: 45px;
+    padding: 45px;
+    text-align: left;
+}
+table, th, td {
+    color:white;
+
+}
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: white;
+    text-align: left;
+}
+.pro {
+    color: white;
+}
+.acads {
+    color: white;
+}
+.rs {
+    color: white;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+img {
+    float: right;
+    margin-right: 30%;
+}
+div {
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 45px;
+    background: rgb(26,250,244);
+    background: linear-gradient(90deg, rgb(238, 77, 104) 6%, rgb(209, 163, 12) 50%, rgb(240, 187, 108) 80%);
+    
+}
